@@ -1,5 +1,5 @@
 ## Hi there 👋
- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on Web Dev projects..
 - 🌱 I’m currently learning Web Development and Artificial Intelligence & Machine Learning.
 - 👯 I’m looking to collaborate on Web Development Projects and in Photography. 
 - 🤔 I’m looking for help with understanding the tech and Ai.
